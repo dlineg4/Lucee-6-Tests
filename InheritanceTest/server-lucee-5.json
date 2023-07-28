@@ -1,0 +1,11 @@
+{
+    "name":"lucee-5",
+    "app":{
+        "cfengine":"lucee@5.4.1-SNAPSHOT+4"
+    },
+    "web":{
+        "http":{
+            "port":"8120"
+        }
+    }
+}
